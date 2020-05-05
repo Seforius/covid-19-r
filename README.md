@@ -1,3 +1,3 @@
 # This is the code for my COVID-19 respirator optimisation project. The aim is to find a way that U.S. states can share their respirator resources in order to minimise the number of deaths across the country. Because different states will need different amounts of respirators at different times, and some will have excess respirators, one can use this model (with the correct data) to form a respirator sharing plan that will result in the minimal amount of deaths due to COVID-19.
 
-# The project is currently under development. An example of a more simple optimisation problem that will be similar in principle to the larger optimisation problem regarding respirators can be found in this repository. It is named 'Vent-trans.R'
+# The project is currently under development. The first draft, which is already of high calibre, has been uploaded to this repository. It is named 'Vent-trans.R'
